@@ -1,4 +1,4 @@
-fastapi[standard]
+fastapi[all]
 python-multipart
 uvicorn
 python-jose
