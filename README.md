@@ -1,5 +1,7 @@
 # Oyen Assessment
 
+![demo](assets/demo.gif)
+
 ## Project Structure
 
 ```
@@ -44,7 +46,6 @@ The `full` argument spins up both frontend and backend server, if you wish to sp
 ```
 uvicorn main.app --reload
 cd ..
-python -m http.server 
 python3 -m http.server 5000 --dir frontend
 
 ```
